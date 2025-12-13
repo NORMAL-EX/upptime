@@ -4,16 +4,20 @@ repo: upptime
 
 # 要监控的网站
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: GitHub
-    url: https://github.com
+  - name: Cloud-PE 官网
+    url: https://cloud-pe.cn
+  - name: Cloud-PE 文件下载站
+    url: https://files.cloud-pe.cn
+  - name: Cloud-PE API
+    url: https://api.cloud-pe.cn
+  - name: Cloud-PE 云盘
+    url: https://yp.sysre.cn
 
-# 状态网站配置  
+# 状态网站配置
 status-website:
-  name: Status Page
-  introTitle: "Status Page"
-  introMessage: Monitoring our services
+  name: Cloud-PE Status
+  introTitle: "Cloud-PE 服务状态"
+  introMessage: 监控 Cloud-PE 各项服务的运行状态
   navbar:
     - title: Status
       href: /
