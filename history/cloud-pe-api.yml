@@ -1,7 +1,7 @@
 url: https://api.cloud-pe.cn
-status: down
-code: 403
-responseTime: 2460
-lastUpdated: 2026-01-15T22:43:56.109Z
+status: up
+code: 200
+responseTime: 1106
+lastUpdated: 2026-01-15T22:54:53.529Z
 startTime: 2025-12-13T13:53:37.974Z
 generator: Upptime <https://github.com/upptime/upptime>
