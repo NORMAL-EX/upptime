@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
-    "time": 2773,
-    "timeDay": 2773,
-    "timeWeek": 2773,
-    "timeMonth": 2773,
-    "timeYear": 2773,
+    "uptime": "42.78%",
+    "uptimeDay": "42.78%",
+    "uptimeWeek": "42.78%",
+    "uptimeMonth": "42.78%",
+    "uptimeYear": "42.78%",
+    "time": 1949,
+    "timeDay": 1949,
+    "timeWeek": 1949,
+    "timeMonth": 1949,
+    "timeYear": 1949,
     "dailyMinutesDown": {
-      "2026-02-18": 0
+      "2026-02-18": 60
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
-    "time": 2233,
-    "timeDay": 2233,
-    "timeWeek": 2233,
-    "timeMonth": 2233,
-    "timeYear": 2233,
+    "uptime": "42.77%",
+    "uptimeDay": "42.77%",
+    "uptimeWeek": "42.77%",
+    "uptimeMonth": "42.77%",
+    "uptimeYear": "42.77%",
+    "time": 1949,
+    "timeDay": 1949,
+    "timeWeek": 1949,
+    "timeMonth": 1949,
+    "timeYear": 1949,
     "dailyMinutesDown": {
-      "2026-02-18": 0
+      "2026-02-18": 60
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
-    "time": 2233,
-    "timeDay": 2233,
-    "timeWeek": 2233,
-    "timeMonth": 2233,
-    "timeYear": 2233,
+    "uptime": "42.76%",
+    "uptimeDay": "42.76%",
+    "uptimeWeek": "42.76%",
+    "uptimeMonth": "42.76%",
+    "uptimeYear": "42.76%",
+    "time": 1949,
+    "timeDay": 1949,
+    "timeWeek": 1949,
+    "timeMonth": 1949,
+    "timeYear": 1949,
     "dailyMinutesDown": {
-      "2026-02-18": 0
+      "2026-02-18": 60
     }
   }
 ]
