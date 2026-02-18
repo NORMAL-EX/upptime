@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.45%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 2773,
     "timeDay": 2773,
     "timeWeek": 2773,
     "timeMonth": 2773,
     "timeYear": 2773,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-18": 0
+    }
   },
   {
     "name": "Cloud-PE 文件下载站",
@@ -23,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2773,
-    "timeDay": 2773,
-    "timeWeek": 2773,
-    "timeMonth": 2773,
-    "timeYear": 2773,
-    "dailyMinutesDown": {}
+    "uptime": "99.45%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 2233,
+    "timeDay": 2233,
+    "timeWeek": 2233,
+    "timeMonth": 2233,
+    "timeYear": 2233,
+    "dailyMinutesDown": {
+      "2026-02-18": 0
+    }
   },
   {
     "name": "Cloud-PE Docs",
@@ -77,16 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2773,
-    "timeDay": 2773,
-    "timeWeek": 2773,
-    "timeMonth": 2773,
-    "timeYear": 2773,
-    "dailyMinutesDown": {}
+    "uptime": "99.37%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 2233,
+    "timeDay": 2233,
+    "timeWeek": 2233,
+    "timeMonth": 2233,
+    "timeYear": 2233,
+    "dailyMinutesDown": {
+      "2026-02-18": 0
+    }
   }
 ]
