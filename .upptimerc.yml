@@ -4,15 +4,15 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Cloud-PE 官方网站
-    url: https://ce-ramos.cn
+    url: https://cloud-pe.cn
   - name: Cloud-PE 文件下载站
-    url: https://files.ce-ramos.cn
+    url: https://files.cloud-pe.cn
   - name: Cloud-PE Docs
-    url: https://docs.ce-ramos.cn
+    url: https://docs.cloud-pe.cn
   - name: Cloud-PE API接口
-    url: https://api.ce-ramos.cn
+    url: https://api.cloud-pe.cn
   - name: Cloud-PE 云盘
-    url: https://pan.ce-ramos.cn
+    url: https://pan.cloud-pe.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
