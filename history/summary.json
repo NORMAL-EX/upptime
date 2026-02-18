@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "20.63%",
-    "uptimeDay": "20.63%",
-    "uptimeWeek": "20.63%",
-    "uptimeMonth": "20.63%",
-    "uptimeYear": "20.63%",
-    "time": 1910,
-    "timeDay": 1910,
-    "timeWeek": 1910,
-    "timeMonth": 1910,
-    "timeYear": 1910,
+    "uptime": "19.29%",
+    "uptimeDay": "19.29%",
+    "uptimeWeek": "19.29%",
+    "uptimeMonth": "19.29%",
+    "uptimeYear": "19.29%",
+    "time": 2077,
+    "timeDay": 2077,
+    "timeWeek": 2077,
+    "timeMonth": 2077,
+    "timeYear": 2077,
     "dailyMinutesDown": {
-      "2026-02-18": 409
+      "2026-02-18": 446
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "20.63%",
-    "uptimeDay": "20.63%",
-    "uptimeWeek": "20.63%",
-    "uptimeMonth": "20.63%",
-    "uptimeYear": "20.63%",
-    "time": 1910,
-    "timeDay": 1910,
-    "timeWeek": 1910,
-    "timeMonth": 1910,
-    "timeYear": 1910,
+    "uptime": "19.29%",
+    "uptimeDay": "19.29%",
+    "uptimeWeek": "19.29%",
+    "uptimeMonth": "19.29%",
+    "uptimeYear": "19.29%",
+    "time": 2077,
+    "timeDay": 2077,
+    "timeWeek": 2077,
+    "timeMonth": 2077,
+    "timeYear": 2077,
     "dailyMinutesDown": {
-      "2026-02-18": 409
+      "2026-02-18": 446
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "20.63%",
-    "uptimeDay": "20.63%",
-    "uptimeWeek": "20.63%",
-    "uptimeMonth": "20.63%",
-    "uptimeYear": "20.63%",
-    "time": 1910,
-    "timeDay": 1910,
-    "timeWeek": 1910,
-    "timeMonth": 1910,
-    "timeYear": 1910,
+    "uptime": "19.29%",
+    "uptimeDay": "19.29%",
+    "uptimeWeek": "19.29%",
+    "uptimeMonth": "19.29%",
+    "uptimeYear": "19.29%",
+    "time": 2077,
+    "timeDay": 2077,
+    "timeWeek": 2077,
+    "timeMonth": 2077,
+    "timeYear": 2077,
     "dailyMinutesDown": {
-      "2026-02-18": 409
+      "2026-02-18": 446
     }
   }
 ]
