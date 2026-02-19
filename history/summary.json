@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "17.99%",
-    "uptimeDay": "17.99%",
-    "uptimeWeek": "17.99%",
-    "uptimeMonth": "17.99%",
-    "uptimeYear": "17.99%",
-    "time": 1936,
-    "timeDay": 1936,
-    "timeWeek": 1936,
-    "timeMonth": 1936,
-    "timeYear": 1936,
+    "uptime": "18.20%",
+    "uptimeDay": "18.20%",
+    "uptimeWeek": "18.20%",
+    "uptimeMonth": "18.20%",
+    "uptimeYear": "18.20%",
+    "time": 1880,
+    "timeDay": 1880,
+    "timeWeek": 1880,
+    "timeMonth": 1880,
+    "timeYear": 1880,
     "dailyMinutesDown": {
-      "2026-02-18": 486
+      "2026-02-19": 3,
+      "2026-02-18": 499
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "17.99%",
-    "uptimeDay": "17.99%",
-    "uptimeWeek": "17.99%",
-    "uptimeMonth": "17.99%",
-    "uptimeYear": "17.99%",
-    "time": 1936,
-    "timeDay": 1936,
-    "timeWeek": 1936,
-    "timeMonth": 1936,
-    "timeYear": 1936,
+    "uptime": "18.20%",
+    "uptimeDay": "18.20%",
+    "uptimeWeek": "18.20%",
+    "uptimeMonth": "18.20%",
+    "uptimeYear": "18.20%",
+    "time": 1880,
+    "timeDay": 1880,
+    "timeWeek": 1880,
+    "timeMonth": 1880,
+    "timeYear": 1880,
     "dailyMinutesDown": {
-      "2026-02-18": 486
+      "2026-02-19": 3,
+      "2026-02-18": 499
     }
   },
   {
@@ -81,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "17.99%",
-    "uptimeDay": "17.99%",
-    "uptimeWeek": "17.99%",
-    "uptimeMonth": "17.99%",
-    "uptimeYear": "17.99%",
-    "time": 1936,
-    "timeDay": 1936,
-    "timeWeek": 1936,
-    "timeMonth": 1936,
-    "timeYear": 1936,
+    "uptime": "18.20%",
+    "uptimeDay": "18.20%",
+    "uptimeWeek": "18.20%",
+    "uptimeMonth": "18.20%",
+    "uptimeYear": "18.20%",
+    "time": 1880,
+    "timeDay": 1880,
+    "timeWeek": 1880,
+    "timeMonth": 1880,
+    "timeYear": 1880,
     "dailyMinutesDown": {
-      "2026-02-18": 486
+      "2026-02-19": 3,
+      "2026-02-18": 499
     }
   }
 ]
