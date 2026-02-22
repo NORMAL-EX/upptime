@@ -5,21 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "21.57%",
+    "uptime": "22.53%",
     "uptimeDay": "1.31%",
-    "uptimeWeek": "21.57%",
-    "uptimeMonth": "21.57%",
-    "uptimeYear": "21.57%",
-    "time": 1632,
-    "timeDay": 1687,
-    "timeWeek": 1632,
-    "timeMonth": 1632,
-    "timeYear": 1632,
+    "uptimeWeek": "22.53%",
+    "uptimeMonth": "22.53%",
+    "uptimeYear": "22.53%",
+    "time": 1628,
+    "timeDay": 1688,
+    "timeWeek": 1628,
+    "timeMonth": 1628,
+    "timeYear": 1628,
     "dailyMinutesDown": {
-      "2026-02-22": 934,
+      "2026-02-22": 956,
       "2026-02-21": 1419,
       "2026-02-20": 1427,
-      "2026-02-19": 822
+      "2026-02-19": 761
     }
   },
   {
@@ -28,21 +28,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "21.57%",
+    "uptime": "22.53%",
     "uptimeDay": "1.31%",
-    "uptimeWeek": "21.57%",
-    "uptimeMonth": "21.57%",
-    "uptimeYear": "21.57%",
-    "time": 1632,
-    "timeDay": 1687,
-    "timeWeek": 1632,
-    "timeMonth": 1632,
-    "timeYear": 1632,
+    "uptimeWeek": "22.53%",
+    "uptimeMonth": "22.53%",
+    "uptimeYear": "22.53%",
+    "time": 1628,
+    "timeDay": 1688,
+    "timeWeek": 1628,
+    "timeMonth": 1628,
+    "timeYear": 1628,
     "dailyMinutesDown": {
-      "2026-02-22": 934,
+      "2026-02-22": 956,
       "2026-02-21": 1419,
       "2026-02-20": 1427,
-      "2026-02-19": 822
+      "2026-02-19": 761
     }
   },
   {
@@ -87,21 +87,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "21.57%",
+    "uptime": "22.53%",
     "uptimeDay": "1.31%",
-    "uptimeWeek": "21.57%",
-    "uptimeMonth": "21.57%",
-    "uptimeYear": "21.57%",
-    "time": 1632,
-    "timeDay": 1687,
-    "timeWeek": 1632,
-    "timeMonth": 1632,
-    "timeYear": 1632,
+    "uptimeWeek": "22.53%",
+    "uptimeMonth": "22.53%",
+    "uptimeYear": "22.53%",
+    "time": 1628,
+    "timeDay": 1688,
+    "timeWeek": 1628,
+    "timeMonth": 1628,
+    "timeYear": 1628,
     "dailyMinutesDown": {
-      "2026-02-22": 934,
+      "2026-02-22": 956,
       "2026-02-21": 1419,
       "2026-02-20": 1427,
-      "2026-02-19": 822
+      "2026-02-19": 761
     }
   }
 ]
