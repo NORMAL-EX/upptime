@@ -5,22 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "32.67%",
+    "uptime": "33.90%",
     "uptimeDay": "4.06%",
-    "uptimeWeek": "32.67%",
-    "uptimeMonth": "32.67%",
-    "uptimeYear": "32.67%",
+    "uptimeWeek": "33.90%",
+    "uptimeMonth": "33.90%",
+    "uptimeYear": "33.90%",
     "time": 1652,
     "timeDay": 1676,
     "timeWeek": 1652,
     "timeMonth": 1652,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2026-02-23": 162,
+      "2026-02-23": 195,
       "2026-02-22": 1383,
       "2026-02-21": 1419,
-      "2026-02-20": 1427,
-      "2026-02-19": 10
+      "2026-02-20": 1345
     }
   },
   {
@@ -29,22 +28,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "32.67%",
+    "uptime": "33.90%",
     "uptimeDay": "4.06%",
-    "uptimeWeek": "32.67%",
-    "uptimeMonth": "32.67%",
-    "uptimeYear": "32.67%",
+    "uptimeWeek": "33.90%",
+    "uptimeMonth": "33.90%",
+    "uptimeYear": "33.90%",
     "time": 1652,
     "timeDay": 1676,
     "timeWeek": 1652,
     "timeMonth": 1652,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2026-02-23": 162,
+      "2026-02-23": 195,
       "2026-02-22": 1383,
       "2026-02-21": 1419,
-      "2026-02-20": 1427,
-      "2026-02-19": 10
+      "2026-02-20": 1345
     }
   },
   {
@@ -89,22 +87,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "32.67%",
+    "uptime": "33.90%",
     "uptimeDay": "4.06%",
-    "uptimeWeek": "32.67%",
-    "uptimeMonth": "32.67%",
-    "uptimeYear": "32.67%",
+    "uptimeWeek": "33.90%",
+    "uptimeMonth": "33.90%",
+    "uptimeYear": "33.90%",
     "time": 1652,
     "timeDay": 1676,
     "timeWeek": 1652,
     "timeMonth": 1652,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2026-02-23": 162,
+      "2026-02-23": 195,
       "2026-02-22": 1383,
       "2026-02-21": 1419,
-      "2026-02-20": 1427,
-      "2026-02-19": 10
+      "2026-02-20": 1345
     }
   }
 ]
