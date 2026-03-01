@@ -1,7 +1,7 @@
-url: https://cloud-pe.cn
-status: up
-code: 200
-responseTime: 704
-lastUpdated: 2026-03-01T04:30:28.208Z
+url: https://files.cloud-pe.cn
+status: down
+code: 403
+responseTime: 1578
+lastUpdated: 2026-03-01T04:30:33.685Z
 startTime: 2026-02-18T13:48:14.245Z
 generator: Upptime <https://github.com/upptime/upptime>
