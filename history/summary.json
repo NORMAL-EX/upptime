@@ -5,21 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "71.36%",
+    "uptime": "71.55%",
     "uptimeDay": "3.23%",
-    "uptimeWeek": "55.65%",
-    "uptimeMonth": "71.36%",
-    "uptimeYear": "71.36%",
+    "uptimeWeek": "55.83%",
+    "uptimeMonth": "71.55%",
+    "uptimeYear": "71.55%",
     "time": 1673,
-    "timeDay": 1836,
-    "timeWeek": 1691,
+    "timeDay": 1846,
+    "timeWeek": 1695,
     "timeMonth": 1673,
     "timeYear": 1673,
     "dailyMinutesDown": {
-      "2026-03-01": 599,
+      "2026-03-01": 638,
       "2026-02-28": 1397,
       "2026-02-27": 1394,
-      "2026-02-26": 1084
+      "2026-02-26": 1027
     }
   },
   {
@@ -28,21 +28,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "71.36%",
+    "uptime": "71.55%",
     "uptimeDay": "3.23%",
-    "uptimeWeek": "55.65%",
-    "uptimeMonth": "71.36%",
-    "uptimeYear": "71.36%",
+    "uptimeWeek": "55.83%",
+    "uptimeMonth": "71.55%",
+    "uptimeYear": "71.55%",
     "time": 1673,
-    "timeDay": 1836,
-    "timeWeek": 1691,
+    "timeDay": 1846,
+    "timeWeek": 1695,
     "timeMonth": 1673,
     "timeYear": 1673,
     "dailyMinutesDown": {
-      "2026-03-01": 599,
+      "2026-03-01": 638,
       "2026-02-28": 1397,
       "2026-02-27": 1394,
-      "2026-02-26": 1084
+      "2026-02-26": 1027
     }
   },
   {
@@ -89,21 +89,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "71.36%",
+    "uptime": "71.55%",
     "uptimeDay": "3.23%",
-    "uptimeWeek": "55.65%",
-    "uptimeMonth": "71.36%",
-    "uptimeYear": "71.36%",
+    "uptimeWeek": "55.83%",
+    "uptimeMonth": "71.55%",
+    "uptimeYear": "71.55%",
     "time": 1673,
-    "timeDay": 1836,
-    "timeWeek": 1691,
+    "timeDay": 1846,
+    "timeWeek": 1695,
     "timeMonth": 1673,
     "timeYear": 1673,
     "dailyMinutesDown": {
-      "2026-03-01": 599,
+      "2026-03-01": 638,
       "2026-02-28": 1397,
       "2026-02-27": 1394,
-      "2026-02-26": 1084
+      "2026-02-26": 1027
     }
   }
 ]
