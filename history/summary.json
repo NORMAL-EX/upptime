@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "85.73%",
+    "uptime": "85.74%",
     "uptimeDay": "0.48%",
     "uptimeWeek": "62.52%",
-    "uptimeMonth": "85.73%",
-    "uptimeYear": "85.73%",
+    "uptimeMonth": "85.74%",
+    "uptimeYear": "85.74%",
     "time": 1691,
-    "timeDay": 1373,
-    "timeWeek": 1680,
+    "timeDay": 1381,
+    "timeWeek": 1683,
     "timeMonth": 1691,
     "timeYear": 1691,
     "dailyMinutesDown": {
-      "2026-03-08": 1372,
+      "2026-03-08": 1407,
       "2026-03-07": 1420,
-      "2026-03-06": 986
+      "2026-03-06": 951
     }
   },
   {
@@ -27,20 +27,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "85.73%",
+    "uptime": "85.74%",
     "uptimeDay": "0.48%",
     "uptimeWeek": "62.52%",
-    "uptimeMonth": "85.73%",
-    "uptimeYear": "85.73%",
+    "uptimeMonth": "85.74%",
+    "uptimeYear": "85.74%",
     "time": 1691,
-    "timeDay": 1373,
-    "timeWeek": 1680,
+    "timeDay": 1381,
+    "timeWeek": 1683,
     "timeMonth": 1691,
     "timeYear": 1691,
     "dailyMinutesDown": {
-      "2026-03-08": 1372,
+      "2026-03-08": 1407,
       "2026-03-07": 1420,
-      "2026-03-06": 986
+      "2026-03-06": 951
     }
   },
   {
@@ -87,20 +87,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "85.73%",
+    "uptime": "85.74%",
     "uptimeDay": "0.48%",
     "uptimeWeek": "62.52%",
-    "uptimeMonth": "85.73%",
-    "uptimeYear": "85.73%",
+    "uptimeMonth": "85.74%",
+    "uptimeYear": "85.74%",
     "time": 1691,
-    "timeDay": 1373,
-    "timeWeek": 1680,
+    "timeDay": 1381,
+    "timeWeek": 1683,
     "timeMonth": 1691,
     "timeYear": 1691,
     "dailyMinutesDown": {
-      "2026-03-08": 1372,
+      "2026-03-08": 1407,
       "2026-03-07": 1420,
-      "2026-03-06": 986
+      "2026-03-06": 951
     }
   }
 ]
