@@ -5,21 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "85.34%",
+    "uptime": "85.25%",
     "uptimeDay": "0.48%",
-    "uptimeWeek": "58.92%",
-    "uptimeMonth": "85.34%",
-    "uptimeYear": "85.34%",
+    "uptimeWeek": "58.59%",
+    "uptimeMonth": "85.25%",
+    "uptimeYear": "85.25%",
     "time": 1694,
-    "timeDay": 1835,
-    "timeWeek": 1722,
+    "timeDay": 1859,
+    "timeWeek": 1727,
     "timeMonth": 1694,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2026-03-10": 264,
+      "2026-03-10": 333,
       "2026-03-09": 1433,
       "2026-03-08": 1435,
-      "2026-03-07": 1009
+      "2026-03-07": 974
     }
   },
   {
@@ -28,21 +28,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "85.34%",
+    "uptime": "85.25%",
     "uptimeDay": "0.48%",
-    "uptimeWeek": "58.92%",
-    "uptimeMonth": "85.34%",
-    "uptimeYear": "85.34%",
+    "uptimeWeek": "58.59%",
+    "uptimeMonth": "85.25%",
+    "uptimeYear": "85.25%",
     "time": 1694,
-    "timeDay": 1857,
-    "timeWeek": 1722,
+    "timeDay": 1859,
+    "timeWeek": 1727,
     "timeMonth": 1694,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2026-03-10": 264,
+      "2026-03-10": 333,
       "2026-03-09": 1433,
       "2026-03-08": 1435,
-      "2026-03-07": 1009
+      "2026-03-07": 974
     }
   },
   {
@@ -89,21 +89,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "85.33%",
+    "uptime": "85.25%",
     "uptimeDay": "0.48%",
-    "uptimeWeek": "58.92%",
-    "uptimeMonth": "85.33%",
-    "uptimeYear": "85.33%",
+    "uptimeWeek": "58.59%",
+    "uptimeMonth": "85.25%",
+    "uptimeYear": "85.25%",
     "time": 1694,
-    "timeDay": 1861,
-    "timeWeek": 1722,
+    "timeDay": 1859,
+    "timeWeek": 1727,
     "timeMonth": 1694,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2026-03-10": 264,
+      "2026-03-10": 333,
       "2026-03-09": 1433,
       "2026-03-08": 1435,
-      "2026-03-07": 1009
+      "2026-03-07": 974
     }
   }
 ]
