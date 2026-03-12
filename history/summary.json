@@ -5,22 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "83.38%",
+    "uptime": "83.33%",
     "uptimeDay": "2.57%",
-    "uptimeWeek": "48.49%",
-    "uptimeMonth": "83.38%",
-    "uptimeYear": "83.38%",
-    "time": 1679,
-    "timeDay": 1480,
+    "uptimeWeek": "48.23%",
+    "uptimeMonth": "83.33%",
+    "uptimeYear": "83.33%",
+    "time": 1678,
+    "timeDay": 1466,
     "timeWeek": 1642,
-    "timeMonth": 1679,
-    "timeYear": 1679,
+    "timeMonth": 1678,
+    "timeYear": 1678,
     "dailyMinutesDown": {
-      "2026-03-12": 396,
+      "2026-03-12": 455,
       "2026-03-11": 1403,
       "2026-03-10": 1377,
       "2026-03-09": 1433,
-      "2026-03-08": 583
+      "2026-03-08": 550
     }
   },
   {
@@ -29,22 +29,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "83.38%",
+    "uptime": "83.33%",
     "uptimeDay": "2.57%",
-    "uptimeWeek": "48.49%",
-    "uptimeMonth": "83.38%",
-    "uptimeYear": "83.38%",
-    "time": 1679,
-    "timeDay": 1480,
+    "uptimeWeek": "48.23%",
+    "uptimeMonth": "83.33%",
+    "uptimeYear": "83.33%",
+    "time": 1678,
+    "timeDay": 1466,
     "timeWeek": 1642,
-    "timeMonth": 1679,
-    "timeYear": 1679,
+    "timeMonth": 1678,
+    "timeYear": 1678,
     "dailyMinutesDown": {
-      "2026-03-12": 396,
+      "2026-03-12": 455,
       "2026-03-11": 1403,
       "2026-03-10": 1377,
       "2026-03-09": 1433,
-      "2026-03-08": 583
+      "2026-03-08": 550
     }
   },
   {
@@ -91,22 +91,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "83.38%",
+    "uptime": "83.33%",
     "uptimeDay": "2.57%",
-    "uptimeWeek": "48.49%",
-    "uptimeMonth": "83.38%",
-    "uptimeYear": "83.38%",
-    "time": 1679,
-    "timeDay": 1480,
+    "uptimeWeek": "48.23%",
+    "uptimeMonth": "83.33%",
+    "uptimeYear": "83.33%",
+    "time": 1678,
+    "timeDay": 1466,
     "timeWeek": 1642,
-    "timeMonth": 1679,
-    "timeYear": 1679,
+    "timeMonth": 1678,
+    "timeYear": 1678,
     "dailyMinutesDown": {
-      "2026-03-12": 396,
+      "2026-03-12": 455,
       "2026-03-11": 1403,
       "2026-03-10": 1377,
       "2026-03-09": 1433,
-      "2026-03-08": 583
+      "2026-03-08": 550
     }
   }
 ]
