@@ -6,21 +6,21 @@
     "slug": "cloud-pe",
     "status": "down",
     "uptime": "90.33%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "43.07%",
-    "uptimeMonth": "86.90%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "43.03%",
+    "uptimeMonth": "86.89%",
     "uptimeYear": "90.33%",
-    "time": 1709,
-    "timeDay": 1840,
-    "timeWeek": 1701,
-    "timeMonth": 1722,
-    "timeYear": 1709,
+    "time": 1708,
+    "timeDay": 1658,
+    "timeWeek": 1702,
+    "timeMonth": 1724,
+    "timeYear": 1708,
     "dailyMinutesDown": {
-      "2026-03-31": 1120,
+      "2026-03-31": 1182,
       "2026-03-30": 1323,
       "2026-03-29": 1427,
       "2026-03-28": 1431,
-      "2026-03-27": 438
+      "2026-03-27": 379
     }
   },
   {
@@ -30,21 +30,21 @@
     "slug": "cloud-pe",
     "status": "down",
     "uptime": "90.33%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "43.06%",
-    "uptimeMonth": "86.90%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "43.03%",
+    "uptimeMonth": "86.89%",
     "uptimeYear": "90.33%",
-    "time": 1709,
-    "timeDay": 1840,
-    "timeWeek": 1701,
-    "timeMonth": 1722,
-    "timeYear": 1709,
+    "time": 1708,
+    "timeDay": 1658,
+    "timeWeek": 1702,
+    "timeMonth": 1724,
+    "timeYear": 1708,
     "dailyMinutesDown": {
-      "2026-03-31": 1120,
+      "2026-03-31": 1182,
       "2026-03-30": 1323,
       "2026-03-29": 1427,
       "2026-03-28": 1431,
-      "2026-03-27": 438
+      "2026-03-27": 379
     }
   },
   {
@@ -94,21 +94,21 @@
     "slug": "cloud-pe",
     "status": "down",
     "uptime": "90.33%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "43.06%",
-    "uptimeMonth": "86.90%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "43.03%",
+    "uptimeMonth": "86.89%",
     "uptimeYear": "90.33%",
-    "time": 1709,
-    "timeDay": 1840,
-    "timeWeek": 1701,
-    "timeMonth": 1722,
-    "timeYear": 1709,
+    "time": 1708,
+    "timeDay": 1658,
+    "timeWeek": 1702,
+    "timeMonth": 1724,
+    "timeYear": 1708,
     "dailyMinutesDown": {
-      "2026-03-31": 1120,
+      "2026-03-31": 1182,
       "2026-03-30": 1323,
       "2026-03-29": 1427,
       "2026-03-28": 1431,
-      "2026-03-27": 438
+      "2026-03-27": 379
     }
   }
 ]
