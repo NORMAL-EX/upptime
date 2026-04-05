@@ -5,22 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "91.54%",
+    "uptime": "91.57%",
     "uptimeDay": "2.64%",
-    "uptimeWeek": "44.03%",
-    "uptimeMonth": "87.12%",
-    "uptimeYear": "91.54%",
+    "uptimeWeek": "44.17%",
+    "uptimeMonth": "87.15%",
+    "uptimeYear": "91.57%",
     "time": 1729,
-    "timeDay": 2109,
+    "timeDay": 2106,
     "timeWeek": 1839,
     "timeMonth": 1740,
     "timeYear": 1729,
     "dailyMinutesDown": {
-      "2026-04-05": 1259,
+      "2026-04-05": 1303,
       "2026-04-04": 1292,
       "2026-04-03": 1426,
       "2026-04-02": 1427,
-      "2026-04-01": 238
+      "2026-04-01": 180
     }
   },
   {
@@ -29,22 +29,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "91.54%",
+    "uptime": "91.57%",
     "uptimeDay": "2.64%",
-    "uptimeWeek": "44.03%",
-    "uptimeMonth": "87.12%",
-    "uptimeYear": "91.54%",
+    "uptimeWeek": "44.17%",
+    "uptimeMonth": "87.15%",
+    "uptimeYear": "91.57%",
     "time": 1729,
-    "timeDay": 2109,
+    "timeDay": 2106,
     "timeWeek": 1839,
     "timeMonth": 1740,
     "timeYear": 1729,
     "dailyMinutesDown": {
-      "2026-04-05": 1259,
+      "2026-04-05": 1304,
       "2026-04-04": 1292,
       "2026-04-03": 1426,
       "2026-04-02": 1427,
-      "2026-04-01": 238
+      "2026-04-01": 180
     }
   },
   {
@@ -93,22 +93,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "91.54%",
+    "uptime": "91.57%",
     "uptimeDay": "2.64%",
-    "uptimeWeek": "44.03%",
-    "uptimeMonth": "87.12%",
-    "uptimeYear": "91.54%",
+    "uptimeWeek": "44.17%",
+    "uptimeMonth": "87.15%",
+    "uptimeYear": "91.57%",
     "time": 1729,
-    "timeDay": 2109,
+    "timeDay": 2106,
     "timeWeek": 1839,
     "timeMonth": 1740,
     "timeYear": 1729,
     "dailyMinutesDown": {
-      "2026-04-05": 1260,
+      "2026-04-05": 1304,
       "2026-04-04": 1292,
       "2026-04-03": 1426,
       "2026-04-02": 1427,
-      "2026-04-01": 238
+      "2026-04-01": 180
     }
   }
 ]
