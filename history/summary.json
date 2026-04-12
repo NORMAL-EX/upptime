@@ -5,22 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "91.48%",
+    "uptime": "91.56%",
     "uptimeDay": "3.47%",
-    "uptimeWeek": "35.13%",
-    "uptimeMonth": "85.07%",
-    "uptimeYear": "91.48%",
+    "uptimeWeek": "35.70%",
+    "uptimeMonth": "85.20%",
+    "uptimeYear": "91.56%",
     "time": 1728,
-    "timeDay": 1605,
+    "timeDay": 1602,
     "timeWeek": 1718,
     "timeMonth": 1766,
     "timeYear": 1728,
     "dailyMinutesDown": {
-      "2026-04-12": 1217,
+      "2026-04-12": 1262,
       "2026-04-11": 1405,
       "2026-04-10": 1432,
       "2026-04-09": 1424,
-      "2026-04-08": 1060
+      "2026-04-08": 958
     }
   },
   {
@@ -29,22 +29,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "91.48%",
+    "uptime": "91.56%",
     "uptimeDay": "3.47%",
-    "uptimeWeek": "35.13%",
-    "uptimeMonth": "85.07%",
-    "uptimeYear": "91.48%",
+    "uptimeWeek": "35.70%",
+    "uptimeMonth": "85.20%",
+    "uptimeYear": "91.56%",
     "time": 1728,
-    "timeDay": 1605,
+    "timeDay": 1602,
     "timeWeek": 1718,
     "timeMonth": 1766,
     "timeYear": 1728,
     "dailyMinutesDown": {
-      "2026-04-12": 1217,
+      "2026-04-12": 1262,
       "2026-04-11": 1405,
       "2026-04-10": 1432,
       "2026-04-09": 1424,
-      "2026-04-08": 1060
+      "2026-04-08": 958
     }
   },
   {
@@ -94,22 +94,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "91.48%",
+    "uptime": "91.56%",
     "uptimeDay": "3.47%",
-    "uptimeWeek": "35.12%",
-    "uptimeMonth": "85.07%",
-    "uptimeYear": "91.48%",
+    "uptimeWeek": "35.70%",
+    "uptimeMonth": "85.20%",
+    "uptimeYear": "91.56%",
     "time": 1728,
-    "timeDay": 1605,
+    "timeDay": 1602,
     "timeWeek": 1718,
     "timeMonth": 1766,
     "timeYear": 1728,
     "dailyMinutesDown": {
-      "2026-04-12": 1218,
+      "2026-04-12": 1262,
       "2026-04-11": 1405,
       "2026-04-10": 1432,
       "2026-04-09": 1424,
-      "2026-04-08": 1060
+      "2026-04-08": 958
     }
   }
 ]
