@@ -5,23 +5,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "91.42%",
+    "uptime": "91.41%",
     "uptimeDay": "0.38%",
-    "uptimeWeek": "31.46%",
-    "uptimeMonth": "84.23%",
-    "uptimeYear": "91.42%",
+    "uptimeWeek": "31.33%",
+    "uptimeMonth": "84.20%",
+    "uptimeYear": "91.41%",
     "time": 1732,
-    "timeDay": 1480,
-    "timeWeek": 1786,
-    "timeMonth": 1800,
+    "timeDay": 1458,
+    "timeWeek": 1790,
+    "timeMonth": 1796,
     "timeYear": 1732,
     "dailyMinutesDown": {
-      "2026-04-15": 693,
+      "2026-04-15": 763,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
       "2026-04-12": 1385,
       "2026-04-11": 1405,
-      "2026-04-10": 551
+      "2026-04-10": 494
     }
   },
   {
@@ -30,23 +30,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "91.42%",
+    "uptime": "91.41%",
     "uptimeDay": "0.38%",
-    "uptimeWeek": "31.46%",
-    "uptimeMonth": "84.23%",
-    "uptimeYear": "91.42%",
+    "uptimeWeek": "31.33%",
+    "uptimeMonth": "84.20%",
+    "uptimeYear": "91.41%",
     "time": 1732,
-    "timeDay": 1480,
-    "timeWeek": 1786,
-    "timeMonth": 1800,
+    "timeDay": 1458,
+    "timeWeek": 1790,
+    "timeMonth": 1796,
     "timeYear": 1732,
     "dailyMinutesDown": {
-      "2026-04-15": 693,
+      "2026-04-15": 763,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
       "2026-04-12": 1385,
       "2026-04-11": 1405,
-      "2026-04-10": 551
+      "2026-04-10": 494
     }
   },
   {
@@ -97,23 +97,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "91.42%",
+    "uptime": "91.41%",
     "uptimeDay": "0.38%",
-    "uptimeWeek": "31.46%",
-    "uptimeMonth": "84.23%",
-    "uptimeYear": "91.42%",
+    "uptimeWeek": "31.33%",
+    "uptimeMonth": "84.20%",
+    "uptimeYear": "91.41%",
     "time": 1732,
-    "timeDay": 1480,
-    "timeWeek": 1786,
-    "timeMonth": 1800,
+    "timeDay": 1458,
+    "timeWeek": 1790,
+    "timeMonth": 1796,
     "timeYear": 1732,
     "dailyMinutesDown": {
-      "2026-04-15": 694,
+      "2026-04-15": 763,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
       "2026-04-12": 1385,
       "2026-04-11": 1405,
-      "2026-04-10": 551
+      "2026-04-10": 494
     }
   }
 ]
