@@ -5,23 +5,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "91.28%",
+    "uptime": "91.27%",
     "uptimeDay": "0.40%",
-    "uptimeWeek": "29.80%",
-    "uptimeMonth": "83.85%",
-    "uptimeYear": "91.28%",
-    "time": 1733,
-    "timeDay": 1688,
-    "timeWeek": 1801,
-    "timeMonth": 1779,
-    "timeYear": 1733,
+    "uptimeWeek": "29.68%",
+    "uptimeMonth": "83.82%",
+    "uptimeYear": "91.27%",
+    "time": 1732,
+    "timeDay": 1678,
+    "timeWeek": 1800,
+    "timeMonth": 1780,
+    "timeYear": 1732,
     "dailyMinutesDown": {
-      "2026-04-15": 1289,
+      "2026-04-15": 1341,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
       "2026-04-12": 1385,
       "2026-04-11": 1405,
-      "2026-04-10": 121
+      "2026-04-10": 81
     }
   },
   {
@@ -32,21 +32,21 @@
     "status": "down",
     "uptime": "91.27%",
     "uptimeDay": "0.40%",
-    "uptimeWeek": "29.80%",
-    "uptimeMonth": "83.85%",
+    "uptimeWeek": "29.68%",
+    "uptimeMonth": "83.82%",
     "uptimeYear": "91.27%",
-    "time": 1733,
-    "timeDay": 1688,
-    "timeWeek": 1801,
-    "timeMonth": 1779,
-    "timeYear": 1733,
+    "time": 1732,
+    "timeDay": 1678,
+    "timeWeek": 1800,
+    "timeMonth": 1780,
+    "timeYear": 1732,
     "dailyMinutesDown": {
-      "2026-04-15": 1289,
+      "2026-04-15": 1341,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
       "2026-04-12": 1385,
       "2026-04-11": 1405,
-      "2026-04-10": 121
+      "2026-04-10": 81
     }
   },
   {
@@ -99,21 +99,21 @@
     "status": "down",
     "uptime": "91.27%",
     "uptimeDay": "0.40%",
-    "uptimeWeek": "29.80%",
-    "uptimeMonth": "83.85%",
+    "uptimeWeek": "29.68%",
+    "uptimeMonth": "83.82%",
     "uptimeYear": "91.27%",
-    "time": 1733,
-    "timeDay": 1688,
-    "timeWeek": 1801,
-    "timeMonth": 1779,
-    "timeYear": 1733,
+    "time": 1732,
+    "timeDay": 1678,
+    "timeWeek": 1800,
+    "timeMonth": 1780,
+    "timeYear": 1732,
     "dailyMinutesDown": {
-      "2026-04-15": 1289,
+      "2026-04-15": 1342,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
       "2026-04-12": 1385,
       "2026-04-11": 1405,
-      "2026-04-10": 121
+      "2026-04-10": 81
     }
   }
 ]
