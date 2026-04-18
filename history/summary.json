@@ -5,23 +5,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "90.99%",
+    "uptime": "91.06%",
     "uptimeDay": "0.44%",
-    "uptimeWeek": "23.58%",
-    "uptimeMonth": "82.42%",
-    "uptimeYear": "90.99%",
+    "uptimeWeek": "24.10%",
+    "uptimeMonth": "82.53%",
+    "uptimeYear": "91.06%",
     "time": 1721,
-    "timeDay": 1444,
-    "timeWeek": 1636,
-    "timeMonth": 1748,
+    "timeDay": 1457,
+    "timeWeek": 1601,
+    "timeMonth": 1745,
     "timeYear": 1721,
     "dailyMinutesDown": {
-      "2026-04-18": 1371,
+      "2026-04-18": 1417,
       "2026-04-17": 1433,
       "2026-04-16": 1433,
       "2026-04-15": 1435,
       "2026-04-14": 1433,
-      "2026-04-13": 590
+      "2026-04-13": 492
     }
   },
   {
@@ -30,23 +30,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "90.99%",
+    "uptime": "91.06%",
     "uptimeDay": "0.44%",
-    "uptimeWeek": "23.58%",
-    "uptimeMonth": "82.41%",
-    "uptimeYear": "90.99%",
+    "uptimeWeek": "24.10%",
+    "uptimeMonth": "82.53%",
+    "uptimeYear": "91.06%",
     "time": 1721,
-    "timeDay": 1444,
-    "timeWeek": 1636,
-    "timeMonth": 1748,
+    "timeDay": 1457,
+    "timeWeek": 1601,
+    "timeMonth": 1745,
     "timeYear": 1721,
     "dailyMinutesDown": {
-      "2026-04-18": 1372,
+      "2026-04-18": 1417,
       "2026-04-17": 1433,
       "2026-04-16": 1433,
       "2026-04-15": 1435,
       "2026-04-14": 1433,
-      "2026-04-13": 590
+      "2026-04-13": 492
     }
   },
   {
@@ -63,7 +63,7 @@
     "time": 590,
     "timeDay": 396,
     "timeWeek": 463,
-    "timeMonth": 540,
+    "timeMonth": 544,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2026-04-16": 72,
@@ -88,7 +88,7 @@
     "time": 2540,
     "timeDay": 1960,
     "timeWeek": 1429,
-    "timeMonth": 2445,
+    "timeMonth": 2482,
     "timeYear": 2540,
     "dailyMinutesDown": {}
   },
@@ -98,23 +98,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.cloud-pe.cn.ico",
     "slug": "cloud-pe",
     "status": "down",
-    "uptime": "90.99%",
+    "uptime": "91.06%",
     "uptimeDay": "0.44%",
-    "uptimeWeek": "23.58%",
-    "uptimeMonth": "82.41%",
-    "uptimeYear": "90.99%",
+    "uptimeWeek": "24.10%",
+    "uptimeMonth": "82.53%",
+    "uptimeYear": "91.06%",
     "time": 1721,
-    "timeDay": 1444,
-    "timeWeek": 1636,
-    "timeMonth": 1748,
+    "timeDay": 1457,
+    "timeWeek": 1601,
+    "timeMonth": 1745,
     "timeYear": 1721,
     "dailyMinutesDown": {
-      "2026-04-18": 1372,
+      "2026-04-18": 1418,
       "2026-04-17": 1433,
       "2026-04-16": 1433,
       "2026-04-15": 1435,
       "2026-04-14": 1433,
-      "2026-04-13": 590
+      "2026-04-13": 492
     }
   }
 ]
