@@ -7,22 +7,22 @@
     "status": "down",
     "uptime": "90.35%",
     "uptimeDay": "0.40%",
-    "uptimeWeek": "19.01%",
-    "uptimeMonth": "81.36%",
+    "uptimeWeek": "18.90%",
+    "uptimeMonth": "81.34%",
     "uptimeYear": "90.35%",
-    "time": 1726,
+    "time": 1725,
     "timeDay": 1414,
     "timeWeek": 1752,
-    "timeMonth": 1753,
-    "timeYear": 1726,
+    "timeMonth": 1752,
+    "timeYear": 1725,
     "dailyMinutesDown": {
-      "2026-04-18": 507,
+      "2026-04-18": 568,
       "2026-04-17": 1433,
       "2026-04-16": 1433,
       "2026-04-15": 1435,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
-      "2026-04-12": 477
+      "2026-04-12": 428
     }
   },
   {
@@ -33,22 +33,22 @@
     "status": "down",
     "uptime": "90.35%",
     "uptimeDay": "0.40%",
-    "uptimeWeek": "19.01%",
-    "uptimeMonth": "81.36%",
+    "uptimeWeek": "18.90%",
+    "uptimeMonth": "81.34%",
     "uptimeYear": "90.35%",
-    "time": 1726,
+    "time": 1725,
     "timeDay": 1414,
     "timeWeek": 1752,
-    "timeMonth": 1753,
-    "timeYear": 1726,
+    "timeMonth": 1752,
+    "timeYear": 1725,
     "dailyMinutesDown": {
-      "2026-04-18": 507,
+      "2026-04-18": 568,
       "2026-04-17": 1433,
       "2026-04-16": 1433,
       "2026-04-15": 1435,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
-      "2026-04-12": 477
+      "2026-04-12": 428
     }
   },
   {
@@ -102,22 +102,22 @@
     "status": "down",
     "uptime": "90.35%",
     "uptimeDay": "0.40%",
-    "uptimeWeek": "19.01%",
-    "uptimeMonth": "81.36%",
+    "uptimeWeek": "18.89%",
+    "uptimeMonth": "81.34%",
     "uptimeYear": "90.35%",
-    "time": 1726,
+    "time": 1725,
     "timeDay": 1414,
     "timeWeek": 1752,
-    "timeMonth": 1753,
-    "timeYear": 1726,
+    "timeMonth": 1752,
+    "timeYear": 1725,
     "dailyMinutesDown": {
-      "2026-04-18": 507,
+      "2026-04-18": 569,
       "2026-04-17": 1433,
       "2026-04-16": 1433,
       "2026-04-15": 1435,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
-      "2026-04-12": 477
+      "2026-04-12": 428
     }
   }
 ]
