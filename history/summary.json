@@ -6,23 +6,23 @@
     "slug": "cloud-pe",
     "status": "down",
     "uptime": "90.40%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "19.57%",
-    "uptimeMonth": "81.49%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "19.48%",
+    "uptimeMonth": "81.47%",
     "uptimeYear": "90.40%",
     "time": 1724,
-    "timeDay": 1151,
-    "timeWeek": 1783,
+    "timeDay": 1191,
+    "timeWeek": 1754,
     "timeMonth": 1746,
     "timeYear": 1724,
     "dailyMinutesDown": {
-      "2026-04-18": 297,
+      "2026-04-18": 376,
       "2026-04-17": 1433,
       "2026-04-16": 1433,
       "2026-04-15": 1435,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
-      "2026-04-12": 630
+      "2026-04-12": 559
     }
   },
   {
@@ -32,23 +32,23 @@
     "slug": "cloud-pe",
     "status": "down",
     "uptime": "90.40%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "19.57%",
-    "uptimeMonth": "81.49%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "19.48%",
+    "uptimeMonth": "81.47%",
     "uptimeYear": "90.40%",
     "time": 1724,
-    "timeDay": 1151,
-    "timeWeek": 1783,
+    "timeDay": 1191,
+    "timeWeek": 1754,
     "timeMonth": 1746,
     "timeYear": 1724,
     "dailyMinutesDown": {
-      "2026-04-18": 297,
+      "2026-04-18": 376,
       "2026-04-17": 1433,
       "2026-04-16": 1433,
       "2026-04-15": 1435,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
-      "2026-04-12": 630
+      "2026-04-12": 559
     }
   },
   {
@@ -101,23 +101,23 @@
     "slug": "cloud-pe",
     "status": "down",
     "uptime": "90.40%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "19.56%",
-    "uptimeMonth": "81.49%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "19.48%",
+    "uptimeMonth": "81.47%",
     "uptimeYear": "90.40%",
     "time": 1724,
-    "timeDay": 1151,
-    "timeWeek": 1783,
+    "timeDay": 1191,
+    "timeWeek": 1754,
     "timeMonth": 1746,
     "timeYear": 1724,
     "dailyMinutesDown": {
-      "2026-04-18": 297,
+      "2026-04-18": 377,
       "2026-04-17": 1433,
       "2026-04-16": 1433,
       "2026-04-15": 1435,
       "2026-04-14": 1433,
       "2026-04-13": 1439,
-      "2026-04-12": 630
+      "2026-04-12": 559
     }
   }
 ]
