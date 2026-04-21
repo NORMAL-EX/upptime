@@ -7,21 +7,21 @@
     "status": "down",
     "uptime": "91.98%",
     "uptimeDay": "0.30%",
-    "uptimeWeek": "28.60%",
+    "uptimeWeek": "28.59%",
     "uptimeMonth": "83.57%",
     "uptimeYear": "91.98%",
-    "time": 1708,
-    "timeDay": 1463,
-    "timeWeek": 1431,
-    "timeMonth": 1695,
-    "timeYear": 1708,
+    "time": 1707,
+    "timeDay": 1478,
+    "timeWeek": 1432,
+    "timeMonth": 1691,
+    "timeYear": 1707,
     "dailyMinutesDown": {
-      "2026-04-21": 1256,
+      "2026-04-21": 1313,
       "2026-04-20": 1436,
       "2026-04-19": 1430,
       "2026-04-18": 1434,
       "2026-04-17": 1433,
-      "2026-04-16": 205
+      "2026-04-16": 149
     }
   },
   {
@@ -32,21 +32,21 @@
     "status": "down",
     "uptime": "91.98%",
     "uptimeDay": "0.30%",
-    "uptimeWeek": "28.60%",
+    "uptimeWeek": "28.58%",
     "uptimeMonth": "83.57%",
     "uptimeYear": "91.98%",
-    "time": 1708,
-    "timeDay": 1463,
-    "timeWeek": 1431,
-    "timeMonth": 1695,
-    "timeYear": 1708,
+    "time": 1707,
+    "timeDay": 1478,
+    "timeWeek": 1432,
+    "timeMonth": 1691,
+    "timeYear": 1707,
     "dailyMinutesDown": {
-      "2026-04-21": 1256,
+      "2026-04-21": 1313,
       "2026-04-20": 1436,
       "2026-04-19": 1430,
       "2026-04-18": 1434,
       "2026-04-17": 1433,
-      "2026-04-16": 205
+      "2026-04-16": 149
     }
   },
   {
@@ -100,21 +100,21 @@
     "status": "down",
     "uptime": "91.98%",
     "uptimeDay": "0.30%",
-    "uptimeWeek": "28.60%",
+    "uptimeWeek": "28.58%",
     "uptimeMonth": "83.57%",
     "uptimeYear": "91.98%",
-    "time": 1708,
-    "timeDay": 1463,
-    "timeWeek": 1431,
-    "timeMonth": 1695,
-    "timeYear": 1708,
+    "time": 1707,
+    "timeDay": 1478,
+    "timeWeek": 1432,
+    "timeMonth": 1691,
+    "timeYear": 1707,
     "dailyMinutesDown": {
-      "2026-04-21": 1256,
+      "2026-04-21": 1313,
       "2026-04-20": 1436,
       "2026-04-19": 1430,
       "2026-04-18": 1434,
       "2026-04-17": 1433,
-      "2026-04-16": 205
+      "2026-04-16": 149
     }
   }
 ]
