@@ -7,21 +7,21 @@
     "status": "down",
     "uptime": "92.11%",
     "uptimeDay": "0.16%",
-    "uptimeWeek": "28.57%",
+    "uptimeWeek": "28.54%",
     "uptimeMonth": "83.56%",
     "uptimeYear": "92.11%",
-    "time": 1710,
-    "timeDay": 1906,
-    "timeWeek": 1468,
-    "timeMonth": 1701,
-    "timeYear": 1710,
+    "time": 1709,
+    "timeDay": 1951,
+    "timeWeek": 1467,
+    "timeMonth": 1702,
+    "timeYear": 1709,
     "dailyMinutesDown": {
-      "2026-04-22": 1348,
+      "2026-04-22": 1406,
       "2026-04-21": 1439,
       "2026-04-20": 1436,
       "2026-04-19": 1430,
       "2026-04-18": 1434,
-      "2026-04-17": 109
+      "2026-04-17": 55
     }
   },
   {
@@ -32,21 +32,21 @@
     "status": "down",
     "uptime": "92.11%",
     "uptimeDay": "0.16%",
-    "uptimeWeek": "28.57%",
+    "uptimeWeek": "28.54%",
     "uptimeMonth": "83.56%",
     "uptimeYear": "92.11%",
-    "time": 1710,
-    "timeDay": 1906,
-    "timeWeek": 1468,
-    "timeMonth": 1701,
-    "timeYear": 1710,
+    "time": 1709,
+    "timeDay": 1951,
+    "timeWeek": 1467,
+    "timeMonth": 1702,
+    "timeYear": 1709,
     "dailyMinutesDown": {
-      "2026-04-22": 1348,
+      "2026-04-22": 1406,
       "2026-04-21": 1439,
       "2026-04-20": 1436,
       "2026-04-19": 1430,
       "2026-04-18": 1434,
-      "2026-04-17": 109
+      "2026-04-17": 55
     }
   },
   {
@@ -100,21 +100,21 @@
     "status": "down",
     "uptime": "92.11%",
     "uptimeDay": "0.16%",
-    "uptimeWeek": "28.57%",
-    "uptimeMonth": "83.56%",
+    "uptimeWeek": "28.53%",
+    "uptimeMonth": "83.55%",
     "uptimeYear": "92.11%",
-    "time": 1710,
-    "timeDay": 1906,
-    "timeWeek": 1468,
-    "timeMonth": 1701,
-    "timeYear": 1710,
+    "time": 1709,
+    "timeDay": 1951,
+    "timeWeek": 1467,
+    "timeMonth": 1702,
+    "timeYear": 1709,
     "dailyMinutesDown": {
-      "2026-04-22": 1349,
+      "2026-04-22": 1406,
       "2026-04-21": 1439,
       "2026-04-20": 1436,
       "2026-04-19": 1430,
       "2026-04-18": 1434,
-      "2026-04-17": 109
+      "2026-04-17": 55
     }
   }
 ]
