@@ -7,22 +7,22 @@
     "status": "down",
     "uptime": "91.31%",
     "uptimeDay": "0.73%",
-    "uptimeWeek": "18.14%",
-    "uptimeMonth": "81.16%",
+    "uptimeWeek": "18.01%",
+    "uptimeMonth": "81.13%",
     "uptimeYear": "91.31%",
-    "time": 1718,
-    "timeDay": 2363,
-    "timeWeek": 1645,
-    "timeMonth": 1716,
-    "timeYear": 1718,
+    "time": 1717,
+    "timeDay": 2321,
+    "timeWeek": 1647,
+    "timeMonth": 1715,
+    "timeYear": 1717,
     "dailyMinutesDown": {
-      "2026-04-25": 782,
+      "2026-04-25": 846,
       "2026-04-24": 1431,
       "2026-04-23": 1431,
       "2026-04-22": 1436,
       "2026-04-21": 1439,
       "2026-04-20": 1436,
-      "2026-04-19": 294
+      "2026-04-19": 244
     }
   },
   {
@@ -33,22 +33,22 @@
     "status": "down",
     "uptime": "91.31%",
     "uptimeDay": "0.73%",
-    "uptimeWeek": "18.14%",
-    "uptimeMonth": "81.16%",
+    "uptimeWeek": "18.01%",
+    "uptimeMonth": "81.13%",
     "uptimeYear": "91.31%",
-    "time": 1718,
-    "timeDay": 2363,
-    "timeWeek": 1645,
-    "timeMonth": 1716,
-    "timeYear": 1718,
+    "time": 1717,
+    "timeDay": 2321,
+    "timeWeek": 1647,
+    "timeMonth": 1715,
+    "timeYear": 1717,
     "dailyMinutesDown": {
-      "2026-04-25": 782,
+      "2026-04-25": 846,
       "2026-04-24": 1431,
       "2026-04-23": 1431,
       "2026-04-22": 1436,
       "2026-04-21": 1439,
       "2026-04-20": 1436,
-      "2026-04-19": 294
+      "2026-04-19": 244
     }
   },
   {
@@ -103,22 +103,22 @@
     "status": "down",
     "uptime": "91.31%",
     "uptimeDay": "0.73%",
-    "uptimeWeek": "18.14%",
-    "uptimeMonth": "81.16%",
+    "uptimeWeek": "18.00%",
+    "uptimeMonth": "81.13%",
     "uptimeYear": "91.31%",
-    "time": 1718,
-    "timeDay": 2363,
-    "timeWeek": 1645,
-    "timeMonth": 1716,
-    "timeYear": 1718,
+    "time": 1717,
+    "timeDay": 2321,
+    "timeWeek": 1647,
+    "timeMonth": 1715,
+    "timeYear": 1717,
     "dailyMinutesDown": {
-      "2026-04-25": 783,
+      "2026-04-25": 847,
       "2026-04-24": 1431,
       "2026-04-23": 1431,
       "2026-04-22": 1436,
       "2026-04-21": 1439,
       "2026-04-20": 1436,
-      "2026-04-19": 294
+      "2026-04-19": 244
     }
   }
 ]
